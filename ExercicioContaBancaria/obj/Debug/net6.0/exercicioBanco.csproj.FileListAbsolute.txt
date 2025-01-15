@@ -1,0 +1,15 @@
+/home/sofiaandrade/Documentos/c#/exercicioBanco/bin/Debug/net6.0/exercicioBanco
+/home/sofiaandrade/Documentos/c#/exercicioBanco/bin/Debug/net6.0/exercicioBanco.deps.json
+/home/sofiaandrade/Documentos/c#/exercicioBanco/bin/Debug/net6.0/exercicioBanco.runtimeconfig.json
+/home/sofiaandrade/Documentos/c#/exercicioBanco/bin/Debug/net6.0/exercicioBanco.dll
+/home/sofiaandrade/Documentos/c#/exercicioBanco/bin/Debug/net6.0/exercicioBanco.pdb
+/home/sofiaandrade/Documentos/c#/exercicioBanco/obj/Debug/net6.0/exercicioBanco.csproj.AssemblyReference.cache
+/home/sofiaandrade/Documentos/c#/exercicioBanco/obj/Debug/net6.0/exercicioBanco.GeneratedMSBuildEditorConfig.editorconfig
+/home/sofiaandrade/Documentos/c#/exercicioBanco/obj/Debug/net6.0/exercicioBanco.AssemblyInfoInputs.cache
+/home/sofiaandrade/Documentos/c#/exercicioBanco/obj/Debug/net6.0/exercicioBanco.AssemblyInfo.cs
+/home/sofiaandrade/Documentos/c#/exercicioBanco/obj/Debug/net6.0/exercicioBanco.csproj.CoreCompileInputs.cache
+/home/sofiaandrade/Documentos/c#/exercicioBanco/obj/Debug/net6.0/exercicioBanco.dll
+/home/sofiaandrade/Documentos/c#/exercicioBanco/obj/Debug/net6.0/refint/exercicioBanco.dll
+/home/sofiaandrade/Documentos/c#/exercicioBanco/obj/Debug/net6.0/exercicioBanco.pdb
+/home/sofiaandrade/Documentos/c#/exercicioBanco/obj/Debug/net6.0/exercicioBanco.genruntimeconfig.cache
+/home/sofiaandrade/Documentos/c#/exercicioBanco/obj/Debug/net6.0/ref/exercicioBanco.dll
